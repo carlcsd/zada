@@ -1,0 +1,1794 @@
+[
+    {
+        "id": 1,
+        "imagen": "media/image1.jpeg",
+        "nombre": "LG",
+        "descripcion": "Soundbar SNH5 600W Bluetooth AI Sound Pro Por Falabella",
+        "precio": 949.00
+    },
+    {
+        "id": 2,
+        "imagen": "media/image2.jpeg",
+        "nombre": "HP",
+        "descripcion": "Impresora Smart Tank 790 Premium Por Falabella",
+        "precio": 1599.00
+    },
+    {
+        "id": 3,
+        "imagen": "media/image3.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "Iphone 14 128gb Por Falabella",
+        "precio": 3499.00
+    },
+    {
+        "id": 4,
+        "imagen": "media/image4.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "Airpods Pro (2nd Gen Usb-c) - Ame Por Falabella",
+        "precio": 799.00
+    },
+    {
+        "id": 5,
+        "imagen": "media/image5.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Torre de Sonido Bluetooth 1500W MX-T70/PE Por Falabella",
+        "precio": 949.00
+    },
+    {
+        "id": 6,
+        "imagen": "media/image6.jpeg",
+        "nombre": "LG",
+        "descripcion": "Televisor 55 NanoCell 4K ThinQ AI 55NANO77SRA Por Falabella",
+        "precio": 1649.00
+    },
+    {
+        "id": 7,
+        "imagen": "media/image7.jpeg",
+        "nombre": "GENERICO",
+        "descripcion": "KIT DE 4 TINTAS DE 1 LITRO PARA IMPRESORA EPSON CANON HP BROTHER Por Suministros Express",
+        "precio": 179.90
+    },
+    {
+        "id": 8,
+        "imagen": "media/image8.jpeg",
+        "nombre": "CANON",
+        "descripcion": "KIT DE 4 TINTAS GI 190 Por Suministros Express",
+        "precio": 160.00
+    },
+    {
+        "id": 9,
+        "imagen": "media/image9.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Celular Galaxy A15 8GB RAM 256GB Por Falabella",
+        "precio": 599.00
+    },
+    {
+        "id": 10,
+        "imagen": "media/image10.jpeg",
+        "nombre": "ASUS",
+        "descripcion": "Gamer Intel Core i5 de 12 núcleos RTX3050 8GB 512GB SSD TUF Gaming F15 12Gen 15.6 FHD Por Falabella",
+        "precio": 2899.00
+    },
+    {
+        "id": 11,
+        "imagen": "media/image11.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Galaxy A55 8gb 256gb Por Falabella",
+        "precio": 1399.00
+    },
+    {
+        "id": 12,
+        "imagen": "media/image12.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Galaxy A35 8gb 256gb Por Falabella",
+        "precio": 1299.00
+    },
+    {
+        "id": 13,
+        "imagen": "media/image13.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Celular Galaxy S24 Ultra 512GB Por Falabella",
+        "precio": 5499.00
+    },
+    {
+        "id": 14,
+        "imagen": "media/image14.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Celular Galaxy A05s 6GB RAM 128GB Por Falabella",
+        "precio": 499.00
+    },
+    {
+        "id": 15,
+        "imagen": "media/image15.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "AirPods 3era Generación Por Falabella",
+        "precio": 799.00
+    },
+    {
+        "id": 16,
+        "imagen": "media/image16.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Televisor 65 Crystal Uhd Du8000 4k Tizen Os Smart Tv (2024) Por Falabella",
+        "precio": 1899.00
+    },
+    {
+        "id": 17,
+        "imagen": "media/image17.jpeg",
+        "nombre": "HP",
+        "descripcion": "Laptop Intel Core I3 8GB 256GB SSD 12va Gen 14' 14-dq5009la Por Falabella",
+        "precio": 1399.00
+    },
+    {
+        "id": 18,
+        "imagen": "media/image18.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "Celular Redmi 13c 8+256gb Por Falabella",
+        "precio": 599.00
+    },
+    {
+        "id": 19,
+        "imagen": "media/image19.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "Celular POCO C65 8GB RAM 256GB. Por Falabella",
+        "precio": 579.00
+    },
+    {
+        "id": 20,
+        "imagen": "media/image20.jpeg",
+        "nombre": "MOTOROLA",
+        "descripcion": "Smartphone Moto G24 4+256 Lavanda Por Tottus",
+        "precio": 419.00
+    },
+    {
+        "id": 21,
+        "imagen": "media/image21.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Galaxy S23 Fe 256gb Por Falabella",
+        "precio": 1999.00
+    },
+    {
+        "id": 22,
+        "imagen": "media/image22.jpeg",
+        "nombre": "HONOR",
+        "descripcion": "Celular X8b 8GB 256GB. Por Falabella",
+        "precio": 849.00
+    },
+    {
+        "id": 23,
+        "imagen": "media/image23.jpeg",
+        "nombre": "JVC",
+        "descripcion": "Televisor 32' Isdbt Hd Frameless With Android 11 Os. Por Falabella",
+        "precio": 499.00
+    },
+    {
+        "id": 24,
+        "imagen": "media/image24.jpeg",
+        "nombre": "LENOVO",
+        "descripcion": "Laptop Ideapad 1 AMD Ryzen 5 7520U 16GB RAM 512GB SSD 15.6 HD Por Falabella",
+        "precio": 1899.00
+    },
+    {
+        "id": 25,
+        "imagen": "media/image25.jpeg",
+        "nombre": "CAIXUN",
+        "descripcion": "Led Smart TV 43' FHD Roku TV Por Caixun.",
+        "precio": 629.00
+    },
+    {
+        "id": 26,
+        "imagen": "media/image26.jpeg",
+        "nombre": "CAIXUN",
+        "descripcion": "Led Smart TV 32' HD Roku TV Por Caixun.",
+        "precio": 399.00
+    },
+    {
+        "id": 27,
+        "imagen": "media/image27.jpeg",
+        "nombre": "SONY",
+        "descripcion": "Consola PS5 Digital Slim + Returnal +Ratchet & Clank Por Falabella",
+        "precio": 1999.00
+    },
+    {
+        "id": 28,
+        "imagen": "media/image28.jpeg",
+        "nombre": "LENOVO",
+        "descripcion": "Tablet P12 8GB 256GB Wifi6 Case 12.7 + Teclado + Pen Por Falabella",
+        "precio": 1649.00
+    },
+    {
+        "id": 29,
+        "imagen": "media/image29.jpeg",
+        "nombre": "MALCREADO32367",
+        "descripcion": "KIT DE 4 TINTAS EPSON 664 Por Suministros Express",
+        "precio": 120.00
+    },
+    {
+        "id": 30,
+        "imagen": "media/image30.jpeg",
+        "nombre": "GENERICO",
+        "descripcion": "Rack para tv pedestal con ruedas de 26 a 70 Por Krearack",
+        "precio": 299.99
+    },
+    {
+        "id": 31,
+        "imagen": "media/image31.jpeg",
+        "nombre": "LENOVO",
+        "descripcion": "Laptop Ideapad 3i Intel Core i5 12va Gen 12GB RAM 512GB SSD 15.6 FHD Por Falabella",
+        "precio": 1899.00
+    },
+    {
+        "id": 32,
+        "imagen": "media/image32.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Televisor 50 Qled 4k Q60d Tizen Os Smart Tv (2024) Por Falabella",
+        "precio": 1799.00
+    },
+    {
+        "id": 33,
+        "imagen": "media/image33.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Televisor 55 Crystal Uhd Du7000 4k Tizen Os Smart Tv (2024) Por Falabella",
+        "precio": 1499.00
+    },
+    {
+        "id": 34,
+        "imagen": "media/image34.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "Celular Iphone 13 128gb Por Falabella",
+        "precio": 2799.00
+    },
+    {
+        "id": 35,
+        "imagen": "media/image35.jpeg",
+        "nombre": "ASUS",
+        "descripcion": "Laptop Intel Core i5 de 12 núcleos 12GB 512GB SSD Vivobook 16 12 Gen 16 WUXGA Por Falabella",
+        "precio": 2299.00
+    },
+    {
+        "id": 36,
+        "imagen": "media/image36.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "Celular Iphone 11 128gb Por Falabella",
+        "precio": 2199.00
+    },
+    {
+        "id": 37,
+        "imagen": "media/image37.jpeg",
+        "nombre": "OEM",
+        "descripcion": "Proyector HY300 PRO Smart 4K Android11 Wifi Bluetooth Por Plp Peru Ventas",
+        "precio": 295.00
+    },
+    {
+        "id": 38,
+        "imagen": "media/image38.jpeg",
+        "nombre": "HP",
+        "descripcion": "Impresora Multifuncional IA 2874 Wifi Por Tottus",
+        "precio": 289.00
+    },
+    {
+        "id": 39,
+        "imagen": "media/image39.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "Macbook Air 13 Chip M1 8gb Ram 256 Gb Ssd - Space Gray Por Falabella",
+        "precio": 3199.00
+    },
+    {
+        "id": 40,
+        "imagen": "media/image40.jpeg",
+        "nombre": "LENOVO",
+        "descripcion": "Laptop Ideapad Slim 3i Intel Core i5 12va Gen 8GB RAM 512GB SSD 15.6 FHD Por Falabella",
+        "precio": 1849.00
+    },
+    {
+        "id": 41,
+        "imagen": "media/image41.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "Iphone 15 Pro Max 256gb Por Falabella",
+        "precio": 6199.00
+    },
+    {
+        "id": 42,
+        "imagen": "media/image42.jpeg",
+        "nombre": "LENOVO",
+        "descripcion": "Laptop Ideapad 1 AMD Ryzen 7 5700U 16GB RAM 512GB SSD 15.6 FHD Por Falabella",
+        "precio": 2099.00
+    },
+    {
+        "id": 43,
+        "imagen": "media/image43.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "Iphone 15 128Gb Por Falabella",
+        "precio": 4099.00
+    },
+    {
+        "id": 44,
+        "imagen": "media/image44.jpeg",
+        "nombre": "INDURAMA",
+        "descripcion": "Cocina Parma Zafiro Croma 6 quemadores Por Falabella",
+        "precio": 1149.00
+    },
+    {
+        "id": 45,
+        "imagen": "media/image45.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Galaxy Tab S9 Fe Por Falabella",
+        "precio": 1599.00
+    },
+    {
+        "id": 46,
+        "imagen": "media/image46.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Celular Galaxy A25 8GB RAM 256GB Por Falabella",
+        "precio": 899.00
+    },
+    {
+        "id": 47,
+        "imagen": "media/image47.jpeg",
+        "nombre": "HISENSE",
+        "descripcion": "Televisor 50 UHD 4K Smart Tv 50A6N (2024) Por Falabella",
+        "precio": 1249.00
+    },
+    {
+        "id": 48,
+        "imagen": "media/image48.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Televisor Smart FHD 43 UN43T5202AGXPE Por Sodimac",
+        "precio": 1009.90
+    },
+    {
+        "id": 49,
+        "imagen": "media/image49.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Televisor 55 Crystal Uhd Du8000 4k Tizen Os Smart Tv (2024) Por Falabella",
+        "precio": 1699.00
+    },
+    {
+        "id": 50,
+        "imagen": "media/image50.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Televisor 55 Qled 4k Q60d Tizen Os Smart Tv (2024) Por Falabella",
+        "precio": 1899.00
+    },
+    {
+        "id": 51,
+        "imagen": "media/image51.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Televisor UHD 65'' Crystal Du7000 4K UN65DU7000GXPE Por Tottus",
+        "precio": 1799.00
+    },
+    {
+        "id": 52,
+        "imagen": "media/image52.jpeg",
+        "nombre": "LENOVO",
+        "descripcion": "Laptop Ideapad Slim 3i Intel Core i3 N305 8GB RAM 512GB SSD 15.6 FHD Por Falabella",
+        "precio": 1499.00
+    },
+    {
+        "id": 53,
+        "imagen": "media/image53.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "Celular Redmi Note 13 Pro 8GB 256GB. Por Falabella",
+        "precio": 1099.00
+    },
+    {
+        "id": 54,
+        "imagen": "media/image54.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Televisor 43'' Qled 4K QN43Q65DAGXPE Por Tottus",
+        "precio": 1399.00
+    },
+    {
+        "id": 55,
+        "imagen": "media/image55.jpeg",
+        "nombre": "BROTHER INTERNATIONAL",
+        "descripcion": "KIT DE 4 TINTAS BROTHER D60BK / 5001CMY Por Suministros Express",
+        "precio": 140.00
+    },
+    {
+        "id": 56,
+        "imagen": "media/image56.jpeg",
+        "nombre": "OEM",
+        "descripcion": "Mini Proyector Portátil Full HD 720P con WiFi Bluetooth 12000Lumens Por Babylu",
+        "precio": 249.00
+    },
+    {
+        "id": 57,
+        "imagen": "media/image57.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Trail Running Hombre Tracefinder -traxion Por Falabella",
+        "precio": 199.00
+    },
+    {
+        "id": 58,
+        "imagen": "media/image58.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Trail Running Hombre Tracefinder-traxion Por Falabella",
+        "precio": 199.00
+    },
+    {
+        "id": 59,
+        "imagen": "media/image59.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Urbanas Hombre Courtblock Por Falabella",
+        "precio": 229.00
+    },
+    {
+        "id": 60,
+        "imagen": "media/image60.jpeg",
+        "nombre": "DIADORA",
+        "descripcion": "Zapatillas urbanas Mujer W Court7 Bl Por Falabella",
+        "precio": 129.90
+    },
+    {
+        "id": 61,
+        "imagen": "media/image61.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Running Hombre Runfalcon 5.0-cloudfoam Por Falabella",
+        "precio": 199.00
+    },
+    {
+        "id": 62,
+        "imagen": "media/image62.jpeg",
+        "nombre": "PUMA",
+        "descripcion": "Zapatillas Deportivas Mujer Flyer Lite Por Falabella",
+        "precio": 132.30
+    },
+    {
+        "id": 63,
+        "imagen": "media/image63.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Running Hombre Duramo RC Por Falabella",
+        "precio": 129.90
+    },
+    {
+        "id": 64,
+        "imagen": "media/image64.jpeg",
+        "nombre": "PUMA",
+        "descripcion": "Zapatillas Deportivas Mujer Flyer Lite Por Falabella",
+        "precio": 132.30
+    },
+    {
+        "id": 65,
+        "imagen": "media/image65.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Urbanas Mujer Court Platform Por Falabella",
+        "precio": 249.00
+    },
+    {
+        "id": 66,
+        "imagen": "media/image66.jpeg",
+        "nombre": "LA MARTINA",
+        "descripcion": "Zapatillas urbanas Hombre Adolfo Bl Por Falabella",
+        "precio": 149.90
+    },
+    {
+        "id": 67,
+        "imagen": "media/image67.jpeg",
+        "nombre": "NEWPORT",
+        "descripcion": "Zapatillas Urbanas Hombre Ancalino3 Bl Por Falabella",
+        "precio": 109.90
+    },
+    {
+        "id": 68,
+        "imagen": "media/image68.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Running Hombre Duramo RC Por Falabella",
+        "precio": 129.90
+    },
+    {
+        "id": 69,
+        "imagen": "media/image69.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Running Hombre Ultrabounce -BOUNCE Por Falabella",
+        "precio": 174.50
+    },
+    {
+        "id": 70,
+        "imagen": "media/image70.jpeg",
+        "nombre": "PUMA",
+        "descripcion": "Zapatillas Urbanas Mujer Rickie Por Falabella",
+        "precio": 199.00
+    },
+    {
+        "id": 71,
+        "imagen": "media/image71.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Urbanas Mujer Breaknet Sleek Por Falabella",
+        "precio": 219.00
+    },
+    {
+        "id": 72,
+        "imagen": "media/image72.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Deportivas Running Mujer Runfalcon 5.0-cloudfoam Por Falabella",
+        "precio": 199.00
+    },
+    {
+        "id": 73,
+        "imagen": "media/image73.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Urbanas Hombre Adidas Court Por Falabella",
+        "precio": 179.00
+    },
+    {
+        "id": 74,
+        "imagen": "media/image74.jpeg",
+        "nombre": "PUMA",
+        "descripcion": "Zapatillas Urbanas Mujer Carina 2 Por Falabella",
+        "precio": 229.00
+    },
+    {
+        "id": 75,
+        "imagen": "media/image75.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Running Hombre Runfalcon 3.0-CLOUDFOAM Por Falabella",
+        "precio": 199.00
+    },
+    {
+        "id": 76,
+        "imagen": "media/image76.jpeg",
+        "nombre": "ADIDAS ORIGINALS",
+        "descripcion": "Zapatillas Urbanas Junior Samba Og Por Falabella",
+        "precio": 299.00
+    },
+    {
+        "id": 77,
+        "imagen": "media/image77.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Running Mujer Runfalcon 3.0 -cloudfoam Por Falabella",
+        "precio": 159.20
+    },
+    {
+        "id": 78,
+        "imagen": "media/image78.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Urbanas Hombre Courtblock Por Falabella",
+        "precio": 229.00
+    },
+    {
+        "id": 79,
+        "imagen": "media/image79.jpeg",
+        "nombre": "PUMA",
+        "descripcion": "Zapatillas Running Hombre Anzarun Lite Por Falabella",
+        "precio": 179.00
+    },
+    {
+        "id": 80,
+        "imagen": "media/image80.jpeg",
+        "nombre": "ADIDAS ORIGINALS",
+        "descripcion": "Zapatillas Urbanas Mujer Samba Por Falabella",
+        "precio": 429.00
+    },
+    {
+        "id": 81,
+        "imagen": "media/image81.jpeg",
+        "nombre": "DIADORA",
+        "descripcion": "Zapatillas Urbanas Mujer W Bamtela Por Falabella",
+        "precio": 219.90
+    },
+    {
+        "id": 82,
+        "imagen": "media/image82.jpeg",
+        "nombre": "ADIDAS ORIGINALS",
+        "descripcion": "Zapatillas Urbanas Mujer Samba Por Falabella",
+        "precio": 429.00
+    },
+    {
+        "id": 83,
+        "imagen": "media/image83.jpeg",
+        "nombre": "DIADORA",
+        "descripcion": "Zapatillas Urbanas Hombre James7 Ve Por Falabella",
+        "precio": 129.90
+    },
+    {
+        "id": 84,
+        "imagen": "media/image84.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Urbanas Hombre Grand Court Alpha Por Falabella",
+        "precio": 279.00
+    },
+    {
+        "id": 85,
+        "imagen": "media/image85.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Running Hombre Runfalcon 5.0-cloudfoam Por Falabella",
+        "precio": 199.00
+    },
+    {
+        "id": 86,
+        "imagen": "media/image86.jpeg",
+        "nombre": "MOUNTAIN GEAR",
+        "descripcion": "Zapatillas Outdoor Hombre Bontyn2 Ol Por Falabella",
+        "precio": 149.90
+    },
+    {
+        "id": 87,
+        "imagen": "media/image87.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Urbanas Mujer Vl Court Bold Shoes Por Falabella",
+        "precio": 299.00
+    },
+    {
+        "id": 88,
+        "imagen": "media/image88.jpeg",
+        "nombre": "PUMA",
+        "descripcion": "Zapatillas Deportivas Mujer Skyrocket Lite Wn's Por Falabella",
+        "precio": 199.00
+    },
+    {
+        "id": 89,
+        "imagen": "media/image89.jpeg",
+        "nombre": "ADIDAS ORIGINALS",
+        "descripcion": "Zapatillas Urbanas Hombre Matchbreaker Super Por Falabella",
+        "precio": 251.30
+    },
+    {
+        "id": 90,
+        "imagen": "media/image90.jpeg",
+        "nombre": "PUMA",
+        "descripcion": "Zapatillas Deportivas Mujer Flexfocus Lite Modern Wns Por Falabella",
+        "precio": 189.00
+    },
+    {
+        "id": 91,
+        "imagen": "media/image91.jpeg",
+        "nombre": "SKECHERS",
+        "descripcion": "Zapatillas Urbanas Mujer Bobs Sport Geo Por Falabella",
+        "precio": 149.40
+    },
+    {
+        "id": 92,
+        "imagen": "media/image92.jpeg",
+        "nombre": "REEBOK",
+        "descripcion": "Zapatillas Urbanas Mujer Club C Revenge Por Falabella",
+        "precio": 299.00
+    },
+    {
+        "id": 93,
+        "imagen": "media/image93.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Urbanas Mujer Grand Court Por Falabella",
+        "precio": 279.00
+    },
+    {
+        "id": 94,
+        "imagen": "media/image94.jpeg",
+        "nombre": "SKECHERS",
+        "descripcion": "Zapatillas Mujer D'lites Por Falabella",
+        "precio": 259.00
+    },
+    {
+        "id": 95,
+        "imagen": "media/image95.jpeg",
+        "nombre": "PUMA",
+        "descripcion": "Zapatillas Urbanas Mujer Suede Xl Por Falabella",
+        "precio": 399.00
+    },
+    {
+        "id": 96,
+        "imagen": "media/image96.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Deportivas Running Mujer Galaxy 7-cloudfoam Por Falabella",
+        "precio": 199.00
+    },
+    {
+        "id": 97,
+        "imagen": "media/image97.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatilla Urbanas Mujer Adidas Grand Court Alpha 00 Por Falabella",
+        "precio": 279.00
+    },
+    {
+        "id": 98,
+        "imagen": "media/image98.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Urbanas Bebé Vl Court 3.0 Por Falabella",
+        "precio": 149.00
+    },
+    {
+        "id": 99,
+        "imagen": "media/image99.jpeg",
+        "nombre": "PUMA",
+        "descripcion": "Zapatillas Deportivas Mujer Skyrocket Lite Engineered Por Falabella",
+        "precio": 219.00
+    },
+    {
+        "id": 100,
+        "imagen": "media/image100.jpeg",
+        "nombre": "STEFANO COCCI",
+        "descripcion": "Zapatillas Urbanas Mujer Inair Por Falabella",
+        "precio": 99.90
+    },
+    {
+        "id": 101,
+        "imagen": "media/image101.jpeg",
+        "nombre": "DIADORA",
+        "descripcion": "Zapatillas urbanas Mujer W BEWEN BL Por Falabella",
+        "precio": 149.90
+    },
+    {
+        "id": 102,
+        "imagen": "media/image102.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Tenis Hombre Grand Court TD Lifestyle Urbanas Por Falabella",
+        "precio": 199.00
+    },
+    {
+        "id": 103,
+        "imagen": "media/image103.jpeg",
+        "nombre": "ADIDAS",
+        "descripcion": "Zapatillas Urbanas Hombre Vl Court 3.0 Por Falabella",
+        "precio": 259.00
+    },
+    {
+        "id": 104,
+        "imagen": "media/image104.jpeg",
+        "nombre": "PUMA",
+        "descripcion": "Zapatillas Deportivas Hombre Flexfocus Lite Modern Por Falabella",
+        "precio": 189.00
+    },
+    {
+        "id": 105,
+        "imagen": "media/image105.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "CAFETERA PRIMA LATTE ROJA Por Tottus",
+        "precio": 629.00
+    },
+    {
+        "id": 106,
+        "imagen": "media/image106.jpeg",
+        "nombre": "GENERICO",
+        "descripcion": "Batidora de Mano 7 Velocidades Eléctrico de Repostería Por Maxicompra",
+        "precio": 23.90
+    },
+    {
+        "id": 107,
+        "imagen": "media/image107.jpeg",
+        "nombre": "INDURAMA",
+        "descripcion": "Refrigeradora 508l Ri-788di Croma Por Falabella",
+        "precio": 2299.00
+    },
+    {
+        "id": 108,
+        "imagen": "media/image108.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Lavadora EcoBubble 17KG Negra WA17CG6441BVPE Por Falabella",
+        "precio": 1549.00
+    },
+    {
+        "id": 109,
+        "imagen": "media/image109.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Licuadora Oster Beehive 3 Velocidades 1.25 Litros BLST4126R053 Roja Por Falabella",
+        "precio": 299.00
+    },
+    {
+        "id": 110,
+        "imagen": "media/image110.jpeg",
+        "nombre": "LG",
+        "descripcion": "Lavaseca Wd11pvc3s6 11/7kg Ai Dd Inteligencia Artificial Carga Frontal Plateada Por Falabella",
+        "precio": 1699.00
+    },
+    {
+        "id": 111,
+        "imagen": "media/image111.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Freidora de Aire 4L Manual Diamond Force CKSTAF40MDF-053 Por Tottus",
+        "precio": 299.00
+    },
+    {
+        "id": 112,
+        "imagen": "media/image112.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Freidora de Aire 6.8L Manual Por Tottus",
+        "precio": 399.00
+    },
+    {
+        "id": 113,
+        "imagen": "media/image113.jpeg",
+        "nombre": "INDURAMA",
+        "descripcion": "Cocina Parma Zafiro Croma 6 quemadores Por Falabella",
+        "precio": 1149.00
+    },
+    {
+        "id": 114,
+        "imagen": "media/image114.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Licuadora Oster con tecnología de motor reversible y panel digital Por Falabella",
+        "precio": 349.00
+    },
+    {
+        "id": 115,
+        "imagen": "media/image115.jpeg",
+        "nombre": "KITCHENAID",
+        "descripcion": "Batidora Artisan Onyx Black 4.8L 5KSM150PSEOB Por Falabella",
+        "precio": 1299.00
+    },
+    {
+        "id": 116,
+        "imagen": "media/image116.jpeg",
+        "nombre": "LG",
+        "descripcion": "Refrigeradora GT31WPP 314L Door Cooling Top Mount Plateada Por Falabella",
+        "precio": 1399.00
+    },
+    {
+        "id": 117,
+        "imagen": "media/image117.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Freidora de Aire Oster 6.8 litros Manual con recubrimiento DiamondForce CKSTAF68T Por Falabella",
+        "precio": 399.00
+    },
+    {
+        "id": 118,
+        "imagen": "media/image118.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Licuadora Oster con control de textura BLST3B Niquelada + Accesorios Por Falabella",
+        "precio": 899.00
+    },
+    {
+        "id": 119,
+        "imagen": "media/image119.jpeg",
+        "nombre": "INDURAMA",
+        "descripcion": "Cocina Florencia 4 Hornillas Por Falabella",
+        "precio": 1399.00
+    },
+    {
+        "id": 120,
+        "imagen": "media/image120.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Refrigeradora Side by Side Gris 490Lt RS52B3000M9 Por Falabella",
+        "precio": 1899.00
+    },
+    {
+        "id": 121,
+        "imagen": "media/image121.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Freidora de aire manual Oster 4 lts con revestimiento DiamondForce Por Falabella",
+        "precio": 259.00
+    },
+    {
+        "id": 122,
+        "imagen": "media/image122.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Lavadora Ecobubble 16kg - Negro Por Falabella",
+        "precio": 1399.00
+    },
+    {
+        "id": 123,
+        "imagen": "media/image123.jpeg",
+        "nombre": "LG",
+        "descripcion": "Refrigeradora GS51MPD 509L Multi Air Flow Side By Side Por Falabella",
+        "precio": 2099.00
+    },
+    {
+        "id": 124,
+        "imagen": "media/image124.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Cafetera Automática PrimaLatte Compatible Con Capsulas DolceGusto Por Falabella",
+        "precio": 699.00
+    },
+    {
+        "id": 125,
+        "imagen": "media/image125.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Licuadora Oster 6 velocidades más pulso Roja Por Falabella",
+        "precio": 279.00
+    },
+    {
+        "id": 126,
+        "imagen": "media/image126.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Refrigeradora Top Mount 341Lt RT35DG5720S9PE Silver Por Falabella",
+        "precio": 1549.00
+    },
+    {
+        "id": 127,
+        "imagen": "media/image127.jpeg",
+        "nombre": "LG",
+        "descripcion": "Centro De Lavado Washtower WK22BS6 22/16 Kg AI DD Carga Frontal Negro Acero Por Falabella",
+        "precio": 6499.00
+    },
+    {
+        "id": 128,
+        "imagen": "media/image128.jpeg",
+        "nombre": "LG",
+        "descripcion": "Refrigeradora GT37SGP 374L Hygiene Fresh Top Mount  Plateada Por Falabella",
+        "precio": 1949.00
+    },
+    {
+        "id": 129,
+        "imagen": "media/image129.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Licuadora Oster ActiveSense con Blend&Go BLSTTDG Roja Por Falabella",
+        "precio": 1099.00
+    },
+    {
+        "id": 130,
+        "imagen": "media/image130.jpeg",
+        "nombre": "HISENSE",
+        "descripcion": "Refrigeradora Side By Side 508L BCD-518 Por Falabella",
+        "precio": 1999.00
+    },
+    {
+        "id": 131,
+        "imagen": "media/image131.jpeg",
+        "nombre": "LG",
+        "descripcion": "Lavaseca Wd15eg2s 15/8 Kg Ai Dd Carga Frontal Plateado Oscuro Por Falabella",
+        "precio": 3049.00
+    },
+    {
+        "id": 132,
+        "imagen": "media/image132.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Arrocera 2.2 lt multifunción 10 en 1 con Bioceramic CKSTRC9030R Roja Por Falabella",
+        "precio": 329.00
+    },
+    {
+        "id": 133,
+        "imagen": "media/image133.jpeg",
+        "nombre": "BLANIK",
+        "descripcion": "Wafflera Negra BWM032 Por Tottus",
+        "precio": 99.00
+    },
+    {
+        "id": 134,
+        "imagen": "media/image134.jpeg",
+        "nombre": "GENERICO",
+        "descripcion": "Procesador Picatodo Picador de Carne Alimentos de Acero Inoxidable Por Maxicompra",
+        "precio": 49.00
+    },
+    {
+        "id": 135,
+        "imagen": "media/image135.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Licuadora Oster Beehive Clasica 3 Velocidades BLST4655053 Cromada Por Falabella",
+        "precio": 299.00
+    },
+    {
+        "id": 136,
+        "imagen": "media/image136.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Extractor de jugos 1.25 lt FPSTJE320R rojo Por Falabella",
+        "precio": 359.00
+    },
+    {
+        "id": 137,
+        "imagen": "media/image137.jpeg",
+        "nombre": "ELECTROLUX",
+        "descripcion": "Refrigerador Side by Side ERSA53K2HVB INVERTER 514 litros black Por Falabella",
+        "precio": 2649.00
+    },
+    {
+        "id": 138,
+        "imagen": "media/image138.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Cafetera programable de 12 tazas BVSTDCP12B Por Falabella",
+        "precio": 159.00
+    },
+    {
+        "id": 139,
+        "imagen": "media/image139.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Combo Secadora Bespoke Luxury Black 17 kg + Lavadora Bespoke Luxury Black 24 kg Por Falabella",
+        "precio": 9499.00
+    },
+    {
+        "id": 140,
+        "imagen": "media/image140.jpeg",
+        "nombre": "SOLE",
+        "descripcion": "Cocina De Pie Classic Dubai Glp/Gn 76 Cm 5 Hornillas Por Falabella",
+        "precio": 1199.00
+    },
+    {
+        "id": 141,
+        "imagen": "media/image141.jpeg",
+        "nombre": "RECCO",
+        "descripcion": "Termo Hervidor RHE-TERMO3000 Por Falabella",
+        "precio": 149.90
+    },
+    {
+        "id": 142,
+        "imagen": "media/image142.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Licuadora Oster Kaliman con vaso de vidrio 2 Velocidades mas Pulso BLSTKAG Roja Por Falabella",
+        "precio": 199.00
+    },
+    {
+        "id": 143,
+        "imagen": "media/image143.jpeg",
+        "nombre": "HISENSE",
+        "descripcion": "Refrigeradora Side By Side 535L BCD-535 Por Falabella",
+        "precio": 2999.00
+    },
+    {
+        "id": 144,
+        "imagen": "media/image144.jpeg",
+        "nombre": "LG",
+        "descripcion": "Lavadora WT25PBVS6 25Kg AI DD Carga Superior Negro Plateado Por Falabella",
+        "precio": 3049.00
+    },
+    {
+        "id": 145,
+        "imagen": "media/image145.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Licuadora Oster 6 velocidades más pulso Por Falabella",
+        "precio": 239.00
+    },
+    {
+        "id": 146,
+        "imagen": "media/image146.jpeg",
+        "nombre": "INDURAMA",
+        "descripcion": "Secadora Gas 7KG SEC-7BLG Por Falabella",
+        "precio": 1799.00
+    },
+    {
+        "id": 147,
+        "imagen": "media/image147.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Arrocera Oster 18 lts tapa de vidrio Por Falabella",
+        "precio": 119.00
+    },
+    {
+        "id": 148,
+        "imagen": "media/image148.jpeg",
+        "nombre": "LG",
+        "descripcion": "Lavadora Wt19bv6t 19kg Ai Dd Inteligencia Artificial Carga Superior Negro Claro Por Falabella",
+        "precio": 1749.00
+    },
+    {
+        "id": 149,
+        "imagen": "media/image149.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Licuadora Oster XPERT SERIES BLST3AR2G053 Por Falabella",
+        "precio": 599.00
+    },
+    {
+        "id": 150,
+        "imagen": "media/image150.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Batidora planetaria 5.2 lt con 10 velocidades FPSTSMPL3R Por Falabella",
+        "precio": 899.00
+    },
+    {
+        "id": 151,
+        "imagen": "media/image151.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Refrigeradora Top Mount Freezer 301l Silver C/disp. Por Falabella",
+        "precio": 1399.00
+    },
+    {
+        "id": 152,
+        "imagen": "media/image152.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Horno Microondas 20 Lt POGGE3702 Negro Por Sodimac",
+        "precio": 279.90
+    },
+    {
+        "id": 153,
+        "imagen": "media/image153.jpeg",
+        "nombre": "LG",
+        "descripcion": "Lavadora WT21VV6 21Kg AI DD Carga Superior Plateada Por Falabella",
+        "precio": 1949.00
+    },
+    {
+        "id": 154,
+        "imagen": "media/image154.jpeg",
+        "nombre": "INDURAMA",
+        "descripcion": "Encimera Multigas 4 Quemadores Egi-604Vdneg Por Falabella",
+        "precio": 619.00
+    },
+    {
+        "id": 155,
+        "imagen": "media/image155.jpeg",
+        "nombre": "INDURAMA",
+        "descripcion": "Cocina 4 hornillas GOYA Por Falabella",
+        "precio": 629.00
+    },
+    {
+        "id": 156,
+        "imagen": "media/image156.jpeg",
+        "nombre": "LG",
+        "descripcion": "Refrigeradora LS51BPP 509L Multi Air Flow Side by Side Plateada Por Tottus",
+        "precio": 2099.00
+    },
+    {
+        "id": 157,
+        "imagen": "media/image157.jpeg",
+        "nombre": "INDURAMA",
+        "descripcion": "Refrigeradora Top Mount 203L RI-359 Por Falabella",
+        "precio": 999.00
+    },
+    {
+        "id": 158,
+        "imagen": "media/image158.jpeg",
+        "nombre": "INDURAMA",
+        "descripcion": "Refrigeradora Top Mount Autofrost 177Lt RI-289D Croma Por Falabella",
+        "precio": 799.00
+    },
+    {
+        "id": 159,
+        "imagen": "media/image159.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "Licuadora Xpert 2 Cab Pot Rj 2L Revers Por Tottus",
+        "precio": 699.00
+    },
+    {
+        "id": 160,
+        "imagen": "media/image160.jpeg",
+        "nombre": "OSTER",
+        "descripcion": "FREIDORA DE AIRE DIGITAL 9L Por Tottus",
+        "precio": 599.00
+    },
+    {
+        "id": 161,
+        "imagen": "media/image161.jpeg",
+        "nombre": "HONOR",
+        "descripcion": "Celular X6a 4GB 128GB. Por Falabella",
+        "precio": 439.00
+    },
+    {
+        "id": 162,
+        "imagen": "media/image162.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Galaxy A55 8gb 256gb Por Falabella",
+        "precio": 1399.00
+    },
+    {
+        "id": 163,
+        "imagen": "media/image163.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "Celular Iphone 13 128gb Por Falabella",
+        "precio": 2799.00
+    },
+    {
+        "id": 164,
+        "imagen": "media/image164.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Celular Galaxy A15 8GB RAM 256GB Por Falabella",
+        "precio": 599.00
+    },
+    {
+        "id": 165,
+        "imagen": "media/image165.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "Iphone 15 128Gb Por Falabella",
+        "precio": 4099.00
+    },
+    {
+        "id": 166,
+        "imagen": "media/image166.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "Celular POCO C65 8GB RAM 256GB. Por Falabella",
+        "precio": 579.00
+    },
+    {
+        "id": 167,
+        "imagen": "media/image167.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "Celular Redmi A3 3+64gb Por Falabella",
+        "precio": 329.00
+    },
+    {
+        "id": 168,
+        "imagen": "media/image168.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Galaxy S23 Fe 256gb Por Falabella",
+        "precio": 1999.00
+    },
+    {
+        "id": 169,
+        "imagen": "media/image169.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "Celular Iphone 11 128gb Por Falabella",
+        "precio": 2199.00
+    },
+    {
+        "id": 170,
+        "imagen": "media/image170.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Galaxy A05 64gb Black Por Falabella",
+        "precio": 379.00
+    },
+    {
+        "id": 171,
+        "imagen": "media/image171.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "Celular 14 Ultra Por Falabella",
+        "precio": 4799.00
+    },
+    {
+        "id": 172,
+        "imagen": "media/image172.jpeg",
+        "nombre": "HONOR",
+        "descripcion": "Celular X8b 8GB 256GB. Por Falabella",
+        "precio": 849.00
+    },
+    {
+        "id": 173,
+        "imagen": "media/image173.jpeg",
+        "nombre": "MOTOROLA",
+        "descripcion": "Celular Razr 50 12GB+512GB 5G Gris + Motobuds+ Por Falabella",
+        "precio": 3499.00
+    },
+    {
+        "id": 174,
+        "imagen": "media/image174.jpeg",
+        "nombre": "MOTOROLA",
+        "descripcion": "Celular Razr 50 ULTRA 12GB+512GB 5G Azul + Motobuds+ Por Falabella",
+        "precio": 4499.00
+    },
+    {
+        "id": 175,
+        "imagen": "media/image175.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Celular Galaxy A05s 6GB RAM 128GB Por Falabella",
+        "precio": 499.00
+    },
+    {
+        "id": 176,
+        "imagen": "media/image176.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Galaxy A35 8gb 256gb Por Falabella",
+        "precio": 1299.00
+    },
+    {
+        "id": 177,
+        "imagen": "media/image177.jpeg",
+        "nombre": "MOTOROLA",
+        "descripcion": "Celular G34 8GB+256GB 5G Negro Por Falabella",
+        "precio": 649.00
+    },
+    {
+        "id": 178,
+        "imagen": "media/image178.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "Celular Redmi Note 13 Pro 8GB 256GB. Por Falabella",
+        "precio": 1099.00
+    },
+    {
+        "id": 179,
+        "imagen": "media/image179.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "Celular Redmi Note 13 8GB 256GB. Por Falabella",
+        "precio": 849.00
+    },
+    {
+        "id": 180,
+        "imagen": "media/image180.jpeg",
+        "nombre": "HONOR",
+        "descripcion": "200 Pro 12+512GB Por Falabella",
+        "precio": 3199.00
+    },
+    {
+        "id": 181,
+        "imagen": "media/image181.jpeg",
+        "nombre": "HONOR",
+        "descripcion": "200 12+256GB Por Falabella",
+        "precio": 1899.00
+    },
+    {
+        "id": 182,
+        "imagen": "media/image182.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "Iphone 14 128gb Por Falabella",
+        "precio": 3499.00
+    },
+    {
+        "id": 183,
+        "imagen": "media/image183.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "Iphone 15 Pro 128Gb Por Falabella",
+        "precio": 4999.00
+    },
+    {
+        "id": 184,
+        "imagen": "media/image184.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "Celular Redmi 13c 8+256gb Por Falabella",
+        "precio": 599.00
+    },
+    {
+        "id": 185,
+        "imagen": "media/image185.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Celular Galaxy A25 8GB RAM 256GB Por Falabella",
+        "precio": 899.00
+    },
+    {
+        "id": 186,
+        "imagen": "media/image186.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "Iphone 15 Pro Max 256gb Por Falabella",
+        "precio": 6199.00
+    },
+    {
+        "id": 187,
+        "imagen": "media/image187.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Celular Galaxy S24 256GB Por Falabella",
+        "precio": 3599.00
+    },
+    {
+        "id": 188,
+        "imagen": "media/image188.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Celular Galaxy S24 Ultra 512GB Por Falabella",
+        "precio": 5499.00
+    },
+    {
+        "id": 189,
+        "imagen": "media/image189.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "Celular Redmi Note 13 Pro+ 12GB 512GB Por Falabella",
+        "precio": 1849.00
+    },
+    {
+        "id": 190,
+        "imagen": "media/image190.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Celular Galaxy S24+ 512GB Por Falabella",
+        "precio": 4499.00
+    },
+    {
+        "id": 191,
+        "imagen": "media/image191.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "Iphone 15 Pro 256Gb Por Falabella",
+        "precio": 5499.00
+    },
+    {
+        "id": 192,
+        "imagen": "media/image192.jpeg",
+        "nombre": "HONOR",
+        "descripcion": "Magic6 Lite 8+256gb. Por Falabella",
+        "precio": 1499.00
+    },
+    {
+        "id": 193,
+        "imagen": "media/image193.jpeg",
+        "nombre": "MOTOROLA",
+        "descripcion": "Celular EDGE 40 NEO 8GB+256GB 5G Naranja Por Falabella",
+        "precio": 1199.00
+    },
+    {
+        "id": 194,
+        "imagen": "media/image194.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Galaxy S23 Phantom Black 128gb Por Falabella",
+        "precio": 2599.90
+    },
+    {
+        "id": 195,
+        "imagen": "media/image195.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "Celular Iphone 11 64gb Por Falabella",
+        "precio": 1999.00
+    },
+    {
+        "id": 196,
+        "imagen": "media/image196.jpeg",
+        "nombre": "OPPO",
+        "descripcion": "Celular A79 8+256GB Por Falabella",
+        "precio": 899.00
+    },
+    {
+        "id": 197,
+        "imagen": "media/image197.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "Celular Poco X6 Pro 5g 8+256 Gb Gris Por Falabella",
+        "precio": 1499.00
+    },
+    {
+        "id": 198,
+        "imagen": "media/image198.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "Redmi Note 13 4G 8GB RAM 256GB Azul - 23129RA5FL Por Gt-miami Fbf Usa Pe",
+        "precio": 659.00
+    },
+    {
+        "id": 199,
+        "imagen": "media/image199.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "Redmi Note 13 PRO 4G 8GB 256GB Verde - 23117RA68G Por Gt-miami Fbf Usa Pe",
+        "precio": 819.00
+    },
+    {
+        "id": 200,
+        "imagen": "media/image200.jpeg",
+        "nombre": "TECNO MOBILE",
+        "descripcion": "TECNO SPARK 20 PRO 256+8GB gold Por Sany Distribuidor Autorizado",
+        "precio": 639.00
+    },
+    {
+        "id": 201,
+        "imagen": "media/image201.jpeg",
+        "nombre": "CUBOT",
+        "descripcion": "Celular KingKong 9 12GB 256GB Tarjeta SIM Dual Android 13-Negro Por Cubot Official Store Pe",
+        "precio": 969.00
+    },
+    {
+        "id": 202,
+        "imagen": "media/image202.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Smartphone Galaxy A15 8Gb 256Gb Black Por Tottus",
+        "precio": 649.00
+    },
+    {
+        "id": 203,
+        "imagen": "media/image203.jpeg",
+        "nombre": "SAMSUNG",
+        "descripcion": "Smartphone Galaxy A55 8Gb 256Gb Awesome Negro Por Tottus",
+        "precio": 1749.00
+    },
+    {
+        "id": 204,
+        "imagen": "media/image204.jpeg",
+        "nombre": "HONOR",
+        "descripcion": "Celular X7b 8GB 256GB. Por Falabella",
+        "precio": 749.00
+    },
+    {
+        "id": 205,
+        "imagen": "media/image205.jpeg",
+        "nombre": "APPLE",
+        "descripcion": "IPHONE 13 128GB - NEGRO Por Fox Móviles Sac",
+        "precio": 2599.00
+    },
+    {
+        "id": 206,
+        "imagen": "media/image206.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "REDMI NOTE 13 PRO 8GB RAM 256GB ROM MIDNIGHT BLACK + AUDIFONO M25 Por Marketcellperu",
+        "precio": 999.00
+    },
+    {
+        "id": 207,
+        "imagen": "media/image207.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "Redmi Note 13 8GB 256GB - Negro 23129RA5FL Por Snap Usa Pe",
+        "precio": 659.00
+    },
+    {
+        "id": 208,
+        "imagen": "media/image208.jpeg",
+        "nombre": "XIAOMI",
+        "descripcion": "REDMI NOTE 13 8GB RAM 256 ROM MINT GREEN Por Rodalexia",
+        "precio": 769.00
+    },
+    {
+        "id": 209,
+        "imagen": "media/image209.jpeg",
+        "nombre": "CASIO",
+        "descripcion": "Reloj Digital Hombre GD-350GB-1D G-SHOCK Por Falabella",
+        "precio": 329.00
+    },
+    {
+        "id": 210,
+        "imagen": "media/image210.jpeg",
+        "nombre": "CASIO",
+        "descripcion": "Reloj G-shock Digital Hombre Gd-b500-7d Por Falabella",
+        "precio": 949.00
+    },
+    {
+        "id": 211,
+        "imagen": "media/image211.jpeg",
+        "nombre": "CASIO",
+        "descripcion": "Reloj G-Shock Resina Hombre DW-6900-1V Por Falabella",
+        "precio": 259.90
+    },
+    {
+        "id": 212,
+        "imagen": "media/image212.jpeg",
+        "nombre": "CASIO",
+        "descripcion": "Reloj Baby-g Digital Mujer Bgd-565u-4d Por Falabella",
+        "precio": 319.00
+    },
+    {
+        "id": 213,
+        "imagen": "media/image213.jpeg",
+        "nombre": "FOSSIL",
+        "descripcion": "Reloj análogo Piel Hombre FS5304 Por Falabella",
+        "precio": 329.00
+    },
+    {
+        "id": 214,
+        "imagen": "media/image214.jpeg",
+        "nombre": "FOSSIL",
+        "descripcion": "Reloj Cuero Hombre Por Falabella",
+        "precio": 859.00
+    },
+    {
+        "id": 215,
+        "imagen": "media/image215.jpeg",
+        "nombre": "FOSSIL",
+        "descripcion": "Reloj Cuero Hombre Por Falabella",
+        "precio": 859.00
+    },
+    {
+        "id": 216,
+        "imagen": "media/image216.jpeg",
+        "nombre": "FOSSIL",
+        "descripcion": "Reloj Cuero Hombre Por Falabella",
+        "precio": 859.00
+    },
+    {
+        "id": 217,
+        "imagen": "media/image217.jpeg",
+        "nombre": "GUESS",
+        "descripcion": "Reloj Gw0710g1 Por Falabella",
+        "precio": 369.00
+    },
+    {
+        "id": 218,
+        "imagen": "media/image218.jpeg",
+        "nombre": "GUESS",
+        "descripcion": "Reloj Gw0606l1 Por Falabella",
+        "precio": 369.00
+    },
+    {
+        "id": 219,
+        "imagen": "media/image219.jpeg",
+        "nombre": "GUESS",
+        "descripcion": "Reloj Gw0726g1 Por Falabella",
+        "precio": 279.00
+    },
+    {
+        "id": 220,
+        "imagen": "media/image220.jpeg",
+        "nombre": "GUESS",
+        "descripcion": "Reloj Gw0608l1 Por Falabella",
+        "precio": 369.00
+    },
+    {
+        "id": 221,
+        "imagen": "media/image221.jpeg",
+        "nombre": "INVICTA",
+        "descripcion": "Reloj 23080 Plateado Hombre Quartz Por Falabella",
+        "precio": 549.00
+    },
+    {
+        "id": 222,
+        "imagen": "media/image222.jpeg",
+        "nombre": "INVICTA",
+        "descripcion": "Reloj Para Hombre 46062 Por Falabella",
+        "precio": 374.00
+    },
+    {
+        "id": 223,
+        "imagen": "media/image223.jpeg",
+        "nombre": "INVICTA",
+        "descripcion": "Reloj Hombre 8934ob Por Falabella",
+        "precio": 409.00
+    },
+    {
+        "id": 224,
+        "imagen": "media/image224.jpeg",
+        "nombre": "INVICTA",
+        "descripcion": "Reloj 9204 Hombre Plateado Quartz Por Falabella",
+        "precio": 399.00
+    },
+    {
+        "id": 225,
+        "imagen": "media/image225.jpeg",
+        "nombre": "CURREN",
+        "descripcion": "Reloj Krec761901 De Acero Inoxidable Para Hombre Por Falabella",
+        "precio": 149.00
+    },
+    {
+        "id": 226,
+        "imagen": "media/image226.jpeg",
+        "nombre": "CURREN",
+        "descripcion": "Reloj Krec9501 De Acero Inoxidable Para Hombre Por Falabella",
+        "precio": 139.00
+    },
+    {
+        "id": 227,
+        "imagen": "media/image227.jpeg",
+        "nombre": "CURREN",
+        "descripcion": "Reloj Kred610105 Hombre Por Falabella",
+        "precio": 149.00
+    },
+    {
+        "id": 228,
+        "imagen": "media/image228.jpeg",
+        "nombre": "CURREN",
+        "descripcion": "Reloj Kred9302 Hombre Por Falabella",
+        "precio": 89.00
+    },
+    {
+        "id": 229,
+        "imagen": "media/image229.jpeg",
+        "nombre": "ARMANI EXCHANGE",
+        "descripcion": "Reloj Cuero Hom Ax2103 Por Falabella",
+        "precio": 909.00
+    },
+    {
+        "id": 230,
+        "imagen": "media/image230.jpeg",
+        "nombre": "ARMANI EXCHANGE",
+        "descripcion": "Reloj Metal Hombre Por Falabella",
+        "precio": 1179.00
+    },
+    {
+        "id": 231,
+        "imagen": "media/image231.jpeg",
+        "nombre": "TOMMY HILFIGER",
+        "descripcion": "Reloj 1710543 Por Falabella",
+        "precio": 399.00
+    },
+    {
+        "id": 232,
+        "imagen": "media/image232.jpeg",
+        "nombre": "TOMMY HILFIGER",
+        "descripcion": "Reloj 1782670 Por Falabella",
+        "precio": 399.00
+    },
+    {
+        "id": 233,
+        "imagen": "media/image233.jpeg",
+        "nombre": "CASIO",
+        "descripcion": "Reloj G-Shock Resina Hombre DW-9052GBX-1A9 Por Falabella",
+        "precio": 269.00
+    },
+    {
+        "id": 234,
+        "imagen": "media/image234.jpeg",
+        "nombre": "CASIO",
+        "descripcion": "Reloj Digital Hombre Dw-6900cb-1d G-shock Por Falabella",
+        "precio": 299.00
+    },
+    {
+        "id": 235,
+        "imagen": "media/image235.jpeg",
+        "nombre": "FOSSIL",
+        "descripcion": "Reloj Cuero Hombre Por Falabella",
+        "precio": 909.00
+    },
+    {
+        "id": 236,
+        "imagen": "media/image236.jpeg",
+        "nombre": "FOSSIL",
+        "descripcion": "Reloj Pu Hombre Por Falabella",
+        "precio": 909.00
+    },
+    {
+        "id": 237,
+        "imagen": "media/image237.jpeg",
+        "nombre": "INVICTA",
+        "descripcion": "Reloj 14878 Hombre Dorado Quartz Por Falabella",
+        "precio": 624.00
+    },
+    {
+        "id": 238,
+        "imagen": "media/image238.jpeg",
+        "nombre": "INVICTA",
+        "descripcion": "Reloj 23084 Hombre Plateado Quartz Por Falabella",
+        "precio": 549.00
+    },
+    {
+        "id": 239,
+        "imagen": "media/image239.jpeg",
+        "nombre": "CURREN",
+        "descripcion": "Reloj Hombre Kre021901 Por Falabella",
+        "precio": 99.00
+    },
+    {
+        "id": 240,
+        "imagen": "media/image240.jpeg",
+        "nombre": "CURREN",
+        "descripcion": "Reloj Krea351901 De Acero Inoxidable Para Hombre Por Falabella",
+        "precio": 99.00
+    },
+    {
+        "id": 241,
+        "imagen": "media/image241.jpeg",
+        "nombre": "ARMANI EXCHANGE",
+        "descripcion": "Reloj Resina Ho Ax7147set Por Falabella",
+        "precio": 1019.00
+    },
+    {
+        "id": 242,
+        "imagen": "media/image242.jpeg",
+        "nombre": "ARMANI EXCHANGE",
+        "descripcion": "Reloj Acero Hombre Por Falabella",
+        "precio": 1039.00
+    },
+    {
+        "id": 243,
+        "imagen": "media/image243.jpeg",
+        "nombre": "TOMMY HILFIGER",
+        "descripcion": "Reloj 1710598 Por Falabella",
+        "precio": 399.00
+    },
+    {
+        "id": 244,
+        "imagen": "media/image244.jpeg",
+        "nombre": "TOMMY HILFIGER",
+        "descripcion": "Reloj 1710618 Por Falabella",
+        "precio": 399.00
+    },
+    {
+        "id": 245,
+        "imagen": "media/image245.jpeg",
+        "nombre": "GUESS",
+        "descripcion": "Reloj Gw0726g2 Por Falabella",
+        "precio": 399.00
+    },
+    {
+        "id": 246,
+        "imagen": "media/image246.jpeg",
+        "nombre": "GUESS",
+        "descripcion": "Reloj Gw0639g2 Por Falabella",
+        "precio": 399.00
+    },
+    {
+        "id": 247,
+        "imagen": "media/image247.jpeg",
+        "nombre": "LACOSTE",
+        "descripcion": "Reloj 2011239 En Silicona Para Unisex Por Falabella",
+        "precio": 629.00
+    },
+    {
+        "id": 248,
+        "imagen": "media/image248.jpeg",
+        "nombre": "LACOSTE",
+        "descripcion": "Reloj 2011345 Hombre Por Falabella",
+        "precio": 899.00
+    },
+    {
+        "id": 249,
+        "imagen": "media/image249.jpeg",
+        "nombre": "OFFICIAL SWISS",
+        "descripcion": "Reloj Análogo Hombre Por Falabella",
+        "precio": 999.00
+    },
+    {
+        "id": 250,
+        "imagen": "media/image250.jpeg",
+        "nombre": "SWISS MILITAIRE",
+        "descripcion": "Reloj Análogo Unisex Por Falabella",
+        "precio": 949.00
+    },
+    {
+        "id": 251,
+        "imagen": "media/image251.jpeg",
+        "nombre": "LACOSTE",
+        "descripcion": "Reloj 2011188 En Silicona Para Hombre Por Falabella",
+        "precio": 629.00
+    },
+    {
+        "id": 252,
+        "imagen": "media/image252.jpeg",
+        "nombre": "AEROSTAR",
+        "descripcion": "Reloj Mujer Derolls Time 9314390 Por Falabella",
+        "precio": 227.00
+    },
+    {
+        "id": 253,
+        "imagen": "media/image253.jpeg",
+        "nombre": "SKECHERS",
+        "descripcion": "Reloj Sr1149 Hombre Por Falabella",
+        "precio": 184.00
+    },
+    {
+        "id": 254,
+        "imagen": "media/image254.jpeg",
+        "nombre": "AEROSTAR",
+        "descripcion": "Reloj Dam 6218002 Por Falabella",
+        "precio": 738.00
+    },
+    {
+        "id": 255,
+        "imagen": "media/image255.jpeg",
+        "nombre": "SKECHERS",
+        "descripcion": "Reloj Sr6216 Mujer Por Falabella",
+        "precio": 228.00
+    },
+    {
+        "id": 256,
+        "imagen": "media/image256.jpeg",
+        "nombre": "TOMMY HILFIGER",
+        "descripcion": "Reloj Mason 1791788 Plateado Por Tempo Di Tutti Pe",
+        "precio": 379.00
+    }
+]
